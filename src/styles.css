@@ -1,0 +1,14 @@
+body {
+  background-color: red;
+}
+h1 {
+  text-align: justify;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+h3 {
+  color: silver;
+  font-family: cursive;
+}
+button {
+  background-color: slateblue;
+}
